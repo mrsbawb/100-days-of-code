@@ -16,3 +16,11 @@
 **Thoughts:** Totally going to win at iterating through arrays. 
 
 **Link(s) to work:** No real work to show at this point, but here's a link to the class: https://www.udemy.com/the-web-developer-bootcamp/
+
+### Day 3: January 22, 2018
+
+**Today's Progress:** Continued with the Javascript lessons on Colt Steele's "The Web Developer Bootcamp. Finished the section on Arrays. 
+
+**Thoughts:** Ermahgerd arrays are tricky!
+
+**Link(s) to work:** https://gist.github.com/mrsbawb/690d3c42979386d059fbcf3f6220e785
