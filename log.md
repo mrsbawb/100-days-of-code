@@ -24,3 +24,11 @@
 **Thoughts:** Ermahgerd arrays are tricky!
 
 **Link(s) to work:** https://gist.github.com/mrsbawb/690d3c42979386d059fbcf3f6220e785
+
+### Day 4: January 23, 2018
+
+**Today's Progress:** Read a couple of chapters from Eloquent Javascript, and did exercises from chapter 2. Also attempted a few other random exercises not from the book.
+
+**Thoughts:** I feel like I'm beginning to get a better handle on If/Else statements, and was happy to be able to complete the FizzBuzz exercise without looking at the answer. 
+
+**Link(s) to work:** https://gist.github.com/mrsbawb/d4ea8db204f97ccd54d722fcb6231b37
