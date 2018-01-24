@@ -32,3 +32,11 @@
 **Thoughts:** I feel like I'm beginning to get a better handle on If/Else statements, and was happy to be able to complete the FizzBuzz exercise without looking at the answer. 
 
 **Link(s) to work:** https://gist.github.com/mrsbawb/d4ea8db204f97ccd54d722fcb6231b37
+
+### Day 5: January 24, 2018
+
+**Today's Progress:** Attempted a couple of the old challenges on r/dailyprogrammer
+
+**Thoughts:** Definitely more confident with if/else statements. The third problem on r/dailyprogrammer is a cipher, and I'm not sure how to solve it yet. Will keep at it and try again.
+
+**Link(s) to work:** https://gist.github.com/mrsbawb/4acb646540e55226749e0f226b6cbe01
