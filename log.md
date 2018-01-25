@@ -40,3 +40,11 @@
 **Thoughts:** Definitely more confident with if/else statements. The third problem on r/dailyprogrammer is a cipher, and I'm not sure how to solve it yet. Will keep at it and try again.
 
 **Link(s) to work:** https://gist.github.com/mrsbawb/4acb646540e55226749e0f226b6cbe01
+
+### Day 6: January 25, 2018
+
+**Today's Progress:** More practice with if/else statements
+
+**Thoughts:** Having trouble focusing today. Began working on a "feeling wheel" program. It checks to see how you're feeling, and then tries to help you get more specific.
+
+**Link(s) to work:** https://gist.github.com/mrsbawb/1d3a41386df6ee3f715dd4bb888b627d
