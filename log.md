@@ -48,3 +48,11 @@
 **Thoughts:** Having trouble focusing today. Began working on a "feeling wheel" program. It checks to see how you're feeling, and then tries to help you get more specific.
 
 **Link(s) to work:** https://gist.github.com/mrsbawb/1d3a41386df6ee3f715dd4bb888b627d
+
+### Day 7: January 26, 2018
+
+**Today's Progress:** Worked on do..while and if statements
+
+**Thoughts:** I made a thing! I'm super proud!
+
+**Link(s) to work:** https://jsfiddle.net/mrsbawb/yt5w9f7a/
