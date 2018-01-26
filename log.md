@@ -55,4 +55,4 @@
 
 **Thoughts:** I made a thing! I'm super proud!
 
-**Link(s) to work:** https://jsfiddle.net/mrsbawb/yt5w9f7a/
+**Link(s) to work:** https://codepen.io/mrsbawb/pen/VyogYv
