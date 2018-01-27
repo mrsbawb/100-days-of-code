@@ -56,3 +56,11 @@
 **Thoughts:** I made a thing! I'm super proud!
 
 **Link(s) to work:** https://codepen.io/mrsbawb/pen/VyogYv
+
+### Day 8: January 27, 2018
+
+**Today's Progress:** Learned about accessing data inside arrays and objects
+
+**Thoughts:** Took me a bit to figure out how to access an object inside an array inside an object.
+
+**Link(s) to work:** No real work today. Just "doodled" in the console.
